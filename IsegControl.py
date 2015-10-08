@@ -3,7 +3,7 @@
 #
 # IsegControl.py - ISEG SHQ command line controller
 #
-# Copyright (c) 2015 Christophe Thil <christophe.thil@ziti.uni-heidelberg.de>
+# Copyright (c) xxxx-2015 Christophe Thil <christophe.thil@ziti.uni-heidelberg.de>
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
